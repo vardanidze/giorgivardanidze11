@@ -1,0 +1,234 @@
+body {
+    width: 1440px;
+    margin: 0 auto;
+
+}
+
+h6 {
+    color: #5863E3;
+    font-weight: 700;
+    font-size: 17px;
+    margin-top: 60px;
+}
+
+.header {
+    width: 370px;
+    margin-top: 7px;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 400;
+}
+
+.container {
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    
+}
+
+.in {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    
+}
+
+
+
+textarea {
+    width: 756px;
+    height: 298px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #99999A;
+    resize: none;
+    margin-top: 40px;
+    background-color: #E5E5E5;
+
+
+}
+
+input {
+    width: 370px;
+    height: 59px;
+    margin-top: 20px;
+    vertical-align: top;
+    background-color: #E5E5E5;
+   
+}
+
+
+
+.button {
+    background-color: #5968F4;
+    color: white;
+    
+    
+}
+
+.cr {
+    display: flex;
+    justify-content: right;
+}
+
+.circle {
+    width: 68px;
+    height: 68px;
+    background-color: #5968F4 ;
+    border-radius: 50%;
+    margin-right: 325px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23px;
+    margin-top: 16px;
+    
+
+}
+
+h5 { 
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 17px;
+    color:  #99999A;
+    margin-top: 8px;
+   
+    
+
+
+}
+
+.tx {
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+
+
+.header2 {
+    width: 548px;
+    margin-top: 7px
+
+
+}
+
+.pic {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 53px;
+    
+}
+
+footer {
+    width: 100%;
+    height: 372px;
+    background-color: black;
+    margin-top: 100px;
+    position: relative;
+
+
+}
+
+.t1 {
+    position: absolute;
+    margin-left: 143px;
+    margin-top: 63px;
+    
+}
+
+.n {
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 30px;
+    color: white;
+
+
+
+}
+
+.n-1 {
+    width: 295px;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #99999A;
+    margin-top: 23px;
+
+    
+}
+
+.t1 div {
+    margin-top: 23px;
+}
+
+.t2 div {
+    display: flex;
+    position: absolute;
+}
+
+
+
+.head {
+    
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 24px;
+    color: white;
+    margin-left: 630px;
+    margin-top: 63px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.tt2 {
+    margin-bottom: 23px;
+}
+
+.tt1 {
+    color: #5863E3;
+    margin-top: 9px;
+}
+
+
+.t3 {
+    position: absolute;
+    margin-left: 190px;
+    
+    
+}
+
+.t4 {
+    position: absolute;
+    margin-left: 350px;
+}
+
+
+.tt3 {
+    color: #5863E3;
+    margin-top: 20px;
+}
+
+
+
+.pr p { 
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.pr img {
+    vertical-align: bottom;
+    margin-bottom: 4px;
+    margin-right: 8px;
+}
